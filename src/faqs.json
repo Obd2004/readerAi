@@ -23,6 +23,11 @@
         "id": 5,
         "question": "Is Uzbekistan safe?",
         "ans": "Starting from 30-35 USD per person a day for accommodation, meals, and wandering around the city. This small post shows that traveling in Uzbekistan can be as cheap as 35 USD per day or can be 135 USD and more for one day with all services included."
+    },    
+    {
+        "id": 6,
+        "question": "where is the America",
+        "ans": "in Europa"
     }
 
 ]
